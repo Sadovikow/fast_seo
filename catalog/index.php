@@ -1,6 +1,6 @@
 <?
 # Header
-
+require($_SERVER['DOCUMENT_ROOT'] . '/setmeta.php'); // Запрашиваем массив SEO полей
 #
 # Catalog code
 #
